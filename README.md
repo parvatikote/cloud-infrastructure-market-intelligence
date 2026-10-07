@@ -11,3 +11,6 @@ The dashboard covers:
 - Global market size and growth trends (2019–2035)
 - Regional market analysis
 - Cloud infrastructure market segmentation
+## Dashboard Preview
+
+![Cloud Infrastructure Market Intelligence Tableau Dashboard](tableau_dashboard.png)
