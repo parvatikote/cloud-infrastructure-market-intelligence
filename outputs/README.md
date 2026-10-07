@@ -6,7 +6,7 @@ An end-to-end market intelligence and analytics project analyzing the global Clo
 
 This project combines market research methodology with data analytics to assess market size, growth, regional dynamics, country-level distribution, and market segmentation.
 
-The analysis covers the period **2019–2035**, with detailed analysis of the 2024 market and long-term growth outlook.
+The analysis covers the period **2019–2035**, with detailed analysis of the 2024 market and long-term growth outlook through 2035.
 
 ## Business Questions
 
