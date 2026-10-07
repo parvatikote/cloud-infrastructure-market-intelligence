@@ -13,4 +13,4 @@ The dashboard covers:
 - Cloud infrastructure market segmentation
 ## Dashboard Preview
 
-![Cloud Infrastructure Market Intelligence Tableau Dashboard](tableau_dashboard.png)
+![Cloud Infrastructure Services Market Intelligence](Cloud%20Infrastructure%20Services%20Market%20Intelligence%20%7C%202019%E2%80%932035And%20a%20small%20subtitle_Global%20market%20outlook%2C%20regional%20performance%20%26%20segment%20analysis.png)
