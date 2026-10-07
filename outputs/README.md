@@ -106,3 +106,46 @@ Business Insights
 Tableau Visualization
         ↓
 Interactive Market Intelligence Dashboard
+- SMEs
+- Large Enterprises
+
+### End-User Industries
+
+- BFSI
+- IT & Telecom
+- Healthcare
+- Retail & E-commerce
+- Manufacturing
+- Government & Public Sector
+- Media & Entertainment
+- Transportation & Logistics
+- Education
+- Others
+
+## Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Python | Data processing and analysis |
+| Pandas | Data cleaning and transformation |
+| SQL | Business analysis and data querying |
+| DuckDB | SQL analysis environment |
+| Tableau | Interactive dashboards and visualization |
+| Excel | Source data preparation |
+
+## Project Workflow
+
+```text
+Market Research Data
+        ↓
+Data Cleaning & Validation
+        ↓
+Python / Pandas Analysis
+        ↓
+SQL / DuckDB Analysis
+        ↓
+Business Insights
+        ↓
+Tableau Visualization
+        ↓
+Interactive Market Intelligence Dashboard
