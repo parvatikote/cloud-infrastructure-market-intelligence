@@ -23,8 +23,7 @@ The analysis combines market research with quantitative analysis and interactive
 |---|---:|
 | 2024 Global Market Size | **$445.15 billion** |
 | 2035 Global Market Size | **$1.42 trillion** |
-| 2024–2035 CAGR | **12.31%** |
-| 2024–2035 Market Growth | **219.28%** |
+| 2024–2035 CAGR | **11.13%** |
 | Largest Region in 2024 | **North America** |
 | Largest Service Segment | **Compute Infrastructure** |
 | Largest Deployment Segment | **Public Cloud** |
